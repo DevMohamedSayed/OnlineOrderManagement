@@ -1,0 +1,17 @@
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\bin\Debug\net9.0\OnlineOrderManagement.Infrastructure.deps.json
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\bin\Debug\net9.0\OnlineOrderManagement.Infrastructure.runtimeconfig.json
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\bin\Debug\net9.0\OnlineOrderManagement.Infrastructure.dll
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\bin\Debug\net9.0\OnlineOrderManagement.Infrastructure.pdb
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\bin\Debug\net9.0\OnlineOrderManagement.Domain.dll
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\bin\Debug\net9.0\OnlineOrderManagement.Domain.pdb
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOr.49D9D1B3.Up2Date
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.dll
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\refint\OnlineOrderManagement.Infrastructure.dll
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.pdb
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\OnlineOrderManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Infrastructure\obj\Debug\net9.0\ref\OnlineOrderManagement.Infrastructure.dll

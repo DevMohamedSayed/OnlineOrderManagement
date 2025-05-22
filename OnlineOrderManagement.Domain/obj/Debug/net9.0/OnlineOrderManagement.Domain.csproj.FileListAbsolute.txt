@@ -1,0 +1,12 @@
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\bin\Debug\net9.0\OnlineOrderManagement.Domain.deps.json
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\bin\Debug\net9.0\OnlineOrderManagement.Domain.dll
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\bin\Debug\net9.0\OnlineOrderManagement.Domain.pdb
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\OnlineOrderManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\OnlineOrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\OnlineOrderManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\OnlineOrderManagement.Domain.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\OnlineOrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\OnlineOrderManagement.Domain.dll
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\refint\OnlineOrderManagement.Domain.dll
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\OnlineOrderManagement.Domain.pdb
+C:\Users\Mohamed\source\repos\OnlineOrderManagement\OnlineOrderManagement.Domain\obj\Debug\net9.0\ref\OnlineOrderManagement.Domain.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ybq79rxXHSk94z9DcVVM/yTmGxo4/B90wewiMnRFezU=",
+  "Source": "OnlineOrderManagement.Api",
+  "BasePath": "_content/OnlineOrderManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.api\\controller\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|solutionrelative:onlineordermanagement.api\\controller\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|solutionrelative:onlineordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.api\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|solutionrelative:onlineordermanagement.api\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|solutionrelative:onlineordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|solutionrelative:onlineordermanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BB40AA-4A39-044D-EC5D-EA20823B7406}|OnlineOrderManagement.Api\\OnlineOrderManagement.Api.csproj|solutionrelative:onlineordermanagement.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38BDC61-9469-27DE-5EA0-091B6ADC3528}|OnlineOrderManagement.Infrastructure\\OnlineOrderManagement.Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38BDC61-9469-27DE-5EA0-091B6ADC3528}|OnlineOrderManagement.Infrastructure\\OnlineOrderManagement.Infrastructure.csproj|solutionrelative:onlineordermanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|solutionrelative:onlineordermanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|solutionrelative:onlineordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|solutionrelative:onlineordermanagement.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|c:\\users\\mohamed\\source\\repos\\onlineordermanagement\\onlineordermanagement.application\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845FB7D-86D0-1DA9-0B0F-DDC69DC05FF5}|OnlineOrderManagement.Application\\OnlineOrderManagement.Application.csproj|solutionrelative:onlineordermanagement.application\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\appsettings.json",
+              "RelativeToolTip": "OnlineOrderManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T21:15:21.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\launchSettings.json",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Api\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\launchSettings.json",
+              "RelativeToolTip": "OnlineOrderManagement.Api\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T20:57:41.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\appsettings.Development.json",
+              "RelativeToolTip": "OnlineOrderManagement.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T20:57:36.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:53:33.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\Program.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:53:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:50:23.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\Controller\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Api\\Controller\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Api\\Controller\\OrdersController.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Api\\Controller\\OrdersController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:44:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwGoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:40:20.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Application\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\Services\\IOrderService.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Application\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:40:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:34:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\DTOs.cs",
+              "RelativeDocumentMoniker": "OnlineOrderManagement.Application\\DTOs.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\OnlineOrderManagement\\OnlineOrderManagement.Application\\DTOs.cs",
+              "RelativeToolTip": "OnlineOrderManagement.Application\\DTOs.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:29:48.005Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1261,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
